@@ -1,0 +1,68 @@
+.centeringHeader {
+    margin-top: 5%;
+    margin-bottom: 50%;
+}
+
+.mainPage {
+    background-image: url("https://photos.app.goo.gl/WsQY5oWqVGVcbYsVA");
+}
+
+.clipping {
+    clip-path: border-radius;
+
+}
+
+.headerText {
+    font-weight: 400;
+    text-align: center;
+    font-size: 5vw;
+
+}
+
+.centerColumn {
+    background-color: #FFFFFF;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.navigationBar {
+    margin-top: 30px;
+    color: #FFC3C2;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navText{
+    color: #000000;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.profilePhoto{
+    margin: auto;
+    width: 50%;
+    padding-top: 5%;
+
+}
+
+.profilePhoto > img {
+    margin: auto;
+    width:30%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.projectCards{
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+.link{
+    color: #FFFFFF;
+}
+
+.cardBody{
+    color: #000000;
+    padding: 5px;
+    font-size: 2vw;
+}
+
